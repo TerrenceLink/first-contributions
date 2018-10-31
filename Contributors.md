@@ -97,6 +97,7 @@
 - [David Latorre](https://github.com/latorredev)
 - [Fintan Maher](https://github.com/miyazakid)
 - [Lincoln Costa](https://github.com/tekpixo)
+- [TerrenceLink](https://github.com/TerrenceLink)
 - [Lauren Wright](https://github.com/laurenewright)
 - [Shailendra Paliwal](https://github.com/vcidst)
 - Jesse
